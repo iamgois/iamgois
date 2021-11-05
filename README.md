@@ -5,7 +5,6 @@
 - 😄 Ele/dele
 - ⚡ Gosto de League of Legends para "desestressar"
 
-## Oi, eu sou o Thiago Gois!
 <div align="center">
   <a href="https://github.com/iamgois">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgois&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

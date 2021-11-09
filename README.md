@@ -2,7 +2,6 @@
 
 - 🔭 Hoje eu trabalho como freelancer de Website
 - 🌱 Estudando JavaScript
-- 😄 Ele/dele
 - ⚡ Gosto de League of Legends para "desestressar"
 
 <div align="center">

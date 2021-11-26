@@ -1,6 +1,5 @@
 ### Olá, eu sou o Thiago Gois 👋
 
-- 🔭 Hoje eu trabalho como freelancer de Website
 - 🌱 Estudando JavaScript
 - ⚡ Gosto de League of Legends para "desestressar"
 

@@ -1,7 +1,7 @@
 ### Olá, eu sou o Thiago Gois 👋
 
 - 🌱 Estudando JavaScript
-- ⚡ Gosto de League of Legends para "desestressar"
+- 📸 @thiagogoisjr
 
 <div align="center">
   <a href="https://github.com/iamgois">

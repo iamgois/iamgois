@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thiago Gois 👋
 
-- 🌱 Estudando Python
+- 🌱 Estudando Node e Python
 - 📸 @thiagogoisjr
 
 <div align="center">

@@ -1,6 +1,7 @@
 ### Olá, eu sou o Thiago Gois 👋
 
-- 🌱 Estudando Node e Python
+- 🌱 Desenvolvendo Rocket.Q
+- ✅ Estudando Node
 - 📸 @thiagogoisjr
 
 <div align="center">

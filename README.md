@@ -1,7 +1,7 @@
 ### Olá, eu sou o Thiago Gois 👋
 
-- 🌱 Aprendendo React
-- ✅ Estudando Node
+- 🌱 Iniciante em React
+- ✅ Estudando FrameWorks de JavaScript
 - 📸 @thiagogoisjr
 
 <div align="center">

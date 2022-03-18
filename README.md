@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thiago Gois 👋
 
-- 🌱 Desenvolvendo Rocket.Q
+- 🌱 Aprendendo React
 - ✅ Estudando Node
 - 📸 @thiagogoisjr
 

@@ -22,6 +22,7 @@
   <img align="center" alt="Nodejs" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Photoshop" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Premiere Pro" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+  <img align="center" alt="Premiere Pro" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
   <img align="center" alt="Figma" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 

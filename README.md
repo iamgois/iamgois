@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thiago Gois 👋
 
-- 🌱 Iniciante em React
+- 🌱 Desenvolvendo www.taxinnovation.com.br
 - ✅ Estudando FrameWorks de JavaScript
 - 📸 @thiagogoisjr
 

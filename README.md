@@ -27,12 +27,12 @@
 </div>
 
 <!-- Visualizadores do perfil-->
-<br><p align="left"><img src="https://komarev.com/ghpvc/?username=nicoleribeiro&label=Profile%20views&color=0e75b6&style=flat" alt="nicoleribeiro" /></p> 
+<br><p align="left"><img src="https://komarev.com/ghpvc/?username=iamgois&label=Profile%20views&color=0e75b6&style=flat" alt="iamgois" /></p> 
 
 <div>
-  <a href="https://www.linkedin.com/in/thiagogoisjr/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/thiagogoisjr" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://wa.me/5524992378067?text=Oi Thiago, vi seu perfil no GitHub." target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thiagogoisjr/" target="__blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/thiagogoisjr" target="__blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/5524992378067?text=Oi Thiago, vi seu perfil no GitHub." target="__blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 ![Snake animation](https://github.com/iamgois/iamgois/blob/output/github-contribution-grid-snake.svg)
 

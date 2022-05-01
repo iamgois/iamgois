@@ -2,7 +2,7 @@
 
 - 🌱 Desenvolvendo https://www.taxinnovation.com.br
 - ✅ Estudando React
-- 📸 @thiagogoisjr
+- 💼 <a href="https://www.linkedin.com/in/thiagogoisjr/">Linkedin</a>
 
 <div align="center">
   <a href="https://github.com/iamgois">

@@ -1,7 +1,7 @@
 ### Olá, eu sou o Thiago Gois 👋
 
 - 🌱 Desenvolvendo https://www.taxinnovation.com.br
-- ✅ Estudando React
+- ✅ Estudando React | TypeScript
 - 💼 <a href="https://www.linkedin.com/in/thiagogoisjr/">Linkedin</a>
 
 <div align="center">

@@ -1,7 +1,7 @@
-### Olá, eu sou o Thiago Gois 👋
+### Olá, eu sou o Thiago Gois | Hi, I am Thiago Gois 👋
 
-- 🌱 Desenvolvendo ThBarberSchool
-- ✅ Estudando React | TypeScript
+- 🌱 Developing ThBarberSchool (Private Project)
+- ✅ Learning React | TypeScript
 - 💼 <a href="https://www.linkedin.com/in/thiagogoisjr/">Linkedin</a>
 
 <div align="center">

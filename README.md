@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thiago Gois | Hi, I am Thiago Gois 👋
 
-- 🌱 Searcing for a Job
+- 🌱 Developing
 - ✅ Learning React | TypeScript
 - 💼 <a href="https://www.linkedin.com/in/thiagogoisjr/">Linkedin</a>
 

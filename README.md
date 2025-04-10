@@ -1,6 +1,5 @@
 ### Olá, eu sou o Thiago Gois | Hi, I am Thiago Gois 👋
 
-- 🌱 Developing Crassus
 - ✅ Learning React | TypeScript
 - 💼 <a href="https://www.linkedin.com/in/thiagogoisjr/">Linkedin</a>
 

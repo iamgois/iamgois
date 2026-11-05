@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a0f"/>
+      <stop offset="1" stop-color="#15151f"/>
+    </linearGradient>
+
+    <linearGradient id="flow" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.33" stop-color="#22d3ee"/>
+      <stop offset="0.66" stop-color="#f472b6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;800 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+
+    <clipPath id="frame"><rect width="800" height="200" rx="16"/></clipPath>
+
+    <clipPath id="c1"><rect x="220" y="118" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite"
+        values="0;352;352;0;0" keyTimes="0;0.1;0.27;0.32;1"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="220" y="118" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite"
+        values="0;0;364;364;0;0" keyTimes="0;0.333;0.433;0.6;0.65;1"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="220" y="118" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite"
+        values="0;0;352;352;0;0" keyTimes="0;0.667;0.767;0.933;0.983;1"/>
+    </rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="800" height="200" fill="url(#bg)"/>
+    <rect width="800" height="200" fill="url(#grid)"/>
+
+    <!-- glows -->
+    <circle cx="150" cy="40" r="90" fill="#8b5cf6" opacity="0.35" filter="url(#blur)">
+      <animate attributeName="cx" values="150;260;150" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="170" r="90" fill="#22d3ee" opacity="0.25" filter="url(#blur)">
+      <animate attributeName="cx" values="650;540;650" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="0.5" y="0.5" width="799" height="199" rx="16" stroke="url(#flow)" stroke-opacity="0.5"/>
+
+  <text x="400" y="50" text-anchor="middle" fill="#a1a1aa"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="13" letter-spacing="4">OLÁ, EU SOU O</text>
+
+  <text x="400" y="102" text-anchor="middle" fill="url(#flow)"
+        font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="54" font-weight="800" letter-spacing="-1">Thiago Gois</text>
+
+  <!-- typing line -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">
+    <text x="196" y="145" fill="#22d3ee">›</text>
+    <text x="220" y="145" fill="#e4e4e7" textLength="348" lengthAdjust="spacing" clip-path="url(#c1)">Desenvolvedor Next.js &amp; React</text>
+    <text x="220" y="145" fill="#e4e4e7" textLength="360" lengthAdjust="spacing" clip-path="url(#c2)">Motion design no After Effects</text>
+    <text x="220" y="145" fill="#e4e4e7" textLength="348" lengthAdjust="spacing" clip-path="url(#c3)">Criador de conteúdo @codegois</text>
+
+    <rect y="128" width="10" height="22" fill="#22d3ee" x="222">
+      <animate attributeName="x" dur="12s" repeatCount="indefinite"
+        keyTimes="0;0.1;0.27;0.32;0.333;0.433;0.6;0.65;0.667;0.767;0.933;0.983;1"
+        values="222;572;572;222;222;584;584;222;222;572;572;222;222"/>
+      <animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

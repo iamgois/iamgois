@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/header.svg" width="100%" alt="Thiago Gois — Desenvolvedor Next.js, motion designer e criador de conteúdo" />
+
+<br/>
+
 ### Stack
 
 <a href="https://skillicons.dev">
